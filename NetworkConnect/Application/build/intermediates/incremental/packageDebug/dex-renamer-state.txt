@@ -1,0 +1,7 @@
+#Mon Jan 09 13:52:03 PST 2017
+base.0=/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_48c687c6078c31c8823b86951df0ea125e936e25
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1e5d464388d6cb283eab889ffd607bf31e215653/classes.dex
+base.1=/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1e5d464388d6cb283eab889ffd607bf31e215653
+file.0=/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_48c687c6078c31c8823b86951df0ea125e936e25/classes.dex

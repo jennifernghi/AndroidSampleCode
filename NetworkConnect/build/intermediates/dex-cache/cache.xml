@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_c1d37da438b07969c75f42f57ad6a162458137d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_603fa3ae8c613aa9d5f9391b2597c9f01c5dcba1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_255c41a7180a4f004dffc6ee29dd5e36aef315bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0704ab2f04c64cfd411b959a7df8e599ebfe5c98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_1e820275574a672341d3652fad4ad09f48ffd61e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_778717e90e314c57bb49235817e4fe5e00210ff6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_afa249a5a48b9dc7314a7afc16184afa49874427/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_42197830852bf5a78304e64dd1f3343dc4d58ff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_01806161e0fa2accb9b663be349bafd22c94e7ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_088ce49377eee89a01be74d65c7230b9e652bfb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="749cf4d1b22c840060c91285a9c6161859e01e23">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_48c687c6078c31c8823b86951df0ea125e936e25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_634e823ee170690cdfdd1f70da528cb3a1b4faed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_0d4eb9048cd77a4cf662f94e369918231c4b95cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_f38b36742ceeaf4759b62a5758ae714f8b8edb67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a79105429628029b25be05f5faea297a74ee980f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_270084ad153b78fa5c39f1c31b45c63b65d43722/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="335f0613f859ab1fc7f07ff2120bd91a4ea7d6bb">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1e5d464388d6cb283eab889ffd607bf31e215653/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_aeb323bf960f41dffe2eb43e087a1c28b9c424ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="/Users/jennifernghinguyen/OneDrive/Android/Sample/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.0.1_82d00ec406e7d935ad6e995e395888c74e4879db/classes.dex" />
+    </item>
+
+</items>
