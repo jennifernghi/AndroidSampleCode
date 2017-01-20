@@ -1,0 +1,7 @@
+#Tue Jan 17 18:36:19 PST 2017
+base.0=/Users/jennifernghinguyen/OneDrive/Android/Sample/DisplayingBitmaps/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_127543844c8b27b36d3250bc271c726358424396
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jennifernghinguyen/OneDrive/Android/Sample/DisplayingBitmaps/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c152bab91c4ef3f949f509fb2969e4e529175c5c/classes.dex
+base.1=/Users/jennifernghinguyen/OneDrive/Android/Sample/DisplayingBitmaps/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c152bab91c4ef3f949f509fb2969e4e529175c5c
+file.0=/Users/jennifernghinguyen/OneDrive/Android/Sample/DisplayingBitmaps/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_127543844c8b27b36d3250bc271c726358424396/classes.dex
