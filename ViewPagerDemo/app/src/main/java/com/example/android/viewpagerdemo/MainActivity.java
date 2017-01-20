@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.OnPageChangeListener;
+import android.util.Log;
 
 public class MainActivity extends FragmentActivity {
 
@@ -13,21 +14,25 @@ public class MainActivity extends FragmentActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		Log.i("main", " on create");
+		//if(savedInstanceState==null) {
+			pageAdapter = new MyPagerAdapter(getSupportFragmentManager(), this);
+			ViewPager pager = (ViewPager) findViewById(R.id.myViewPager);
+			pager.setAdapter(pageAdapter);
+			pager.setOffscreenPageLimit(pageAdapter.getCount());
 
-		pageAdapter = new MyPagerAdapter(getSupportFragmentManager());
-		ViewPager pager = (ViewPager)findViewById(R.id.myViewPager);
-		pager.setAdapter(pageAdapter);
-		
-		pager.addOnPageChangeListener(pageChangeListener);
+			pager.addOnPageChangeListener(pageChangeListener);
+		//}
 	}
 	
 	private OnPageChangeListener pageChangeListener = new OnPageChangeListener() {
 		
 		int currentPosition = 0;
-		
+
 		@Override
 		public void onPageSelected(int newPosition) {
-			
+			Log.i("Main", "currentPosition =  " + currentPosition );
+			Log.i("Main", "newPosition =  " + newPosition);
 			FragmentLifecycle fragmentToHide = (FragmentLifecycle)pageAdapter.getItem(currentPosition);
 			fragmentToHide.onPauseFragment();
 
